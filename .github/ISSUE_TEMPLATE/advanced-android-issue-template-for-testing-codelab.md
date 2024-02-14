@@ -1,4 +1,6 @@
----
+---$ git clone https://github.com/google-developer-training/advanced-android-testing.git
+$ cd android-testing
+$ git checkout starter_code
 name: Advanced Android Issue Template for Testing Codelab
 about: Report problems with Advanced Android in Kotlin Testing codelab
 title: "[Codelab Issue] Testing Codelab 5.#, Step # - Issue description"
